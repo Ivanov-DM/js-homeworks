@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Ivanov-DM/js-homeworks/issues"
   },
-  "homepage": "https://github.com/Ivanov-DM/js-homeworks#readme"
+  "homepage": "https://github.com/Ivanov-DM/js-homeworks#readme",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
 }
